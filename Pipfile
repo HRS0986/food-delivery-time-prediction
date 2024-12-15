@@ -8,6 +8,7 @@ jupyter = "*"
 pandas = "*"
 matplotlib = "*"
 kagglehub = "*"
+seaborn = "*"
 
 [dev-packages]
 
