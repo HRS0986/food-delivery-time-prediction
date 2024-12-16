@@ -11,6 +11,8 @@ kagglehub = "*"
 seaborn = "*"
 geopy = "*"
 scikit-learn = "*"
+xgboost = "*"
+lightgbm = "*"
 
 [dev-packages]
 
