@@ -13,6 +13,7 @@ geopy = "*"
 scikit-learn = "*"
 xgboost = "*"
 lightgbm = "*"
+optuna = "*"
 
 [dev-packages]
 
